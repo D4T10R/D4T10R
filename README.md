@@ -1,11 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c09bd&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c09bd&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=6407b0&animation=twinkling&fontAlignY=35"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c09bd&size=35&center=true&vCenter=true&width=1000&lines=HI,D4T10R;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D4T10R&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4T10R&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
 </div>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KAYOKG&bg_color=0a0c10&color=6c09bd&line=9932CC&point=4a256b&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=D4T10R&bg_color=0a0c10&color=6c09bd&line=9932CC&point=4a256b&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6C09BD&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS" alt="Typing SVG" /></a>
@@ -37,4 +40,4 @@
 </div>
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c09bd&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6407b0&animation=twinkling&fontAlignY=55"/></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c09bd&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6407b0&animation=twinkling&fontAlignY=55"/>
